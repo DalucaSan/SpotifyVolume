@@ -9,7 +9,6 @@ First time:
 - Copy your "Client ID" and "Client secret" to access the API
 - launch the app (it should close because it doesn't have your credentials)
 - put your credentials in the congif file that has been created after launching for the first time
-#TEMPORARY ISSUE:
-# Spotify asks for a Redirect URI which my exe can't do because I didn't want a visible console
+- (TEMPORARY ISSUE: Spotify asks for a Redirect URI which my exe can't do because I didn't want a visible console)
 - Launch it again
 - Enjoy
